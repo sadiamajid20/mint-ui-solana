@@ -104,7 +104,7 @@ function Footer() {
             </svg>
           </a>
           <a href="https://dribbble.com/thebirdsofpamparigouste" class="text-gray-400 hover:text-gray-500">
-            <span class="sr-only">Dribbble</span>
+            <span class="sr-only"> Dribbble</span>
             <svg
               class="w-6 h-6"
               aria-hidden="true"
